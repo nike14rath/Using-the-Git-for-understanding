@@ -1,1 +1,3 @@
-Here, i am trying to the git.
+Here, i am trying to learn the git.
+Git is quite important for a coder.
+So, i am actively learning it so that i can utilise it for sure in my future projects.
