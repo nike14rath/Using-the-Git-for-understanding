@@ -1,3 +1,7 @@
 Here, i am trying to learn the git.
 Git is quite important for a coder.
 So, i am actively learning it so that i can utilise it for sure in my future projects.
+
+
+
+I thought i have made some changes here, but it feels like, it won't effect us too much.
